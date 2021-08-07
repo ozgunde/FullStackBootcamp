@@ -1,0 +1,39 @@
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod\obj\Debug\netcoreapp3.1\FunExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod\obj\Debug\netcoreapp3.1\FunExtensionMethod.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod\obj\Debug\netcoreapp3.1\FunExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod\bin\Debug\netcoreapp3.1\FunExtensionMethod.exe
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod\bin\Debug\netcoreapp3.1\FunExtensionMethod.deps.json
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod\bin\Debug\netcoreapp3.1\FunExtensionMethod.runtimeconfig.json
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod\bin\Debug\netcoreapp3.1\FunExtensionMethod.runtimeconfig.dev.json
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod\bin\Debug\netcoreapp3.1\FunExtensionMethod.dll
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod\bin\Debug\netcoreapp3.1\FunExtensionMethod.pdb
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod\obj\Debug\netcoreapp3.1\FunExtensionMethod.dll
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod\obj\Debug\netcoreapp3.1\FunExtensionMethod.pdb
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod\obj\Debug\netcoreapp3.1\FunExtensionMethod.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod\obj\Debug\netcoreapp3.1\FunExtensionMethod.csprojAssemblyReference.cache
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod - Kopya\bin\Debug\netcoreapp3.1\FunExtensionMethod.exe
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod - Kopya\bin\Debug\netcoreapp3.1\FunExtensionMethod.deps.json
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod - Kopya\bin\Debug\netcoreapp3.1\FunExtensionMethod.runtimeconfig.json
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod - Kopya\bin\Debug\netcoreapp3.1\FunExtensionMethod.runtimeconfig.dev.json
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod - Kopya\bin\Debug\netcoreapp3.1\FunExtensionMethod.dll
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod - Kopya\bin\Debug\netcoreapp3.1\FunExtensionMethod.pdb
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod - Kopya\obj\Debug\netcoreapp3.1\FunExtensionMethod.csprojAssemblyReference.cache
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod - Kopya\obj\Debug\netcoreapp3.1\FunExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod - Kopya\obj\Debug\netcoreapp3.1\FunExtensionMethod.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod - Kopya\obj\Debug\netcoreapp3.1\FunExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod - Kopya\obj\Debug\netcoreapp3.1\FunExtensionMethod.dll
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod - Kopya\obj\Debug\netcoreapp3.1\FunExtensionMethod.pdb
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\FunExtensionMethod - Kopya\obj\Debug\netcoreapp3.1\FunExtensionMethod.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\OzgunDemirel-FunExtensionMethod\bin\Debug\netcoreapp3.1\FunExtensionMethod.exe
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\OzgunDemirel-FunExtensionMethod\bin\Debug\netcoreapp3.1\FunExtensionMethod.deps.json
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\OzgunDemirel-FunExtensionMethod\bin\Debug\netcoreapp3.1\FunExtensionMethod.runtimeconfig.json
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\OzgunDemirel-FunExtensionMethod\bin\Debug\netcoreapp3.1\FunExtensionMethod.runtimeconfig.dev.json
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\OzgunDemirel-FunExtensionMethod\bin\Debug\netcoreapp3.1\FunExtensionMethod.dll
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\OzgunDemirel-FunExtensionMethod\bin\Debug\netcoreapp3.1\FunExtensionMethod.pdb
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\OzgunDemirel-FunExtensionMethod\obj\Debug\netcoreapp3.1\FunExtensionMethod.csprojAssemblyReference.cache
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\OzgunDemirel-FunExtensionMethod\obj\Debug\netcoreapp3.1\FunExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\OzgunDemirel-FunExtensionMethod\obj\Debug\netcoreapp3.1\FunExtensionMethod.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\OzgunDemirel-FunExtensionMethod\obj\Debug\netcoreapp3.1\FunExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\OzgunDemirel-FunExtensionMethod\obj\Debug\netcoreapp3.1\FunExtensionMethod.dll
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\OzgunDemirel-FunExtensionMethod\obj\Debug\netcoreapp3.1\FunExtensionMethod.pdb
+C:\Users\ozgun\Desktop\Kodluyoruz\Bootcamp\Ödev\OzgunDemirel-FunExtensionMethod\obj\Debug\netcoreapp3.1\FunExtensionMethod.genruntimeconfig.cache
